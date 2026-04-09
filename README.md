@@ -75,7 +75,9 @@ install.packages(c("psych","ggplot2"))
 # open and run analysis script in RStudio
 ```
 
-📁 Structure
+⸻
+
+## 📁 Structure
 
 ```
 Endurance-Performance-Regression/
@@ -87,7 +89,9 @@ Endurance-Performance-Regression/
 └── .gitignore
 ```
 
-🧩 Skills
+⸻
+
+## 🧩 Skills
 
 ```
 	•	Regression modeling & diagnostics
@@ -96,7 +100,9 @@ Endurance-Performance-Regression/
 	•	Business-oriented interpretation
 ```
 
-🔮 Future Improvements
+⸻
+
+## 🔮 Future Improvements
 
 ```
 	•	Include training intensity, gender, and injury history
@@ -104,5 +110,7 @@ Endurance-Performance-Regression/
 	•	Develop interactive dashboards for runners/coaches
 	•	Explore machine learning approaches for performance prediction
 ```
+
+⸻
 
 👤 Author - Jinxi Zhang
